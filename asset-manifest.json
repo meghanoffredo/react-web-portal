@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/react-web-portal/static/css/main.44e821f0.css",
+    "main.js": "/react-web-portal/static/js/main.ab5dff30.js",
+    "static/media/geometricBackground2.mp4": "/react-web-portal/static/media/geometricBackground2.9746bdafffe6b9dfc92a.mp4",
+    "static/media/colorBackground2.jpg": "/react-web-portal/static/media/colorBackground2.96e2cf46f34ce8d47954.jpg",
+    "static/media/pod-save-america.jpeg": "/react-web-portal/static/media/pod-save-america.733716dc248df2348e9b.jpeg",
+    "static/media/pod-save-the-world.jpeg": "/react-web-portal/static/media/pod-save-the-world.8d1598278f0b3f0db920.jpeg",
+    "static/media/the-daily.jpeg": "/react-web-portal/static/media/the-daily.06e64133f0cf6ab16a4d.jpeg",
+    "static/media/today-explained.jpeg": "/react-web-portal/static/media/today-explained.6a6eb567c5924e704f3c.jpeg",
+    "static/media/twitter.jpeg": "/react-web-portal/static/media/twitter.1ac3cf7c65c80f83ae36.jpeg",
+    "static/media/spotify.jpeg": "/react-web-portal/static/media/spotify.271900486ed13f6568e5.jpeg",
+    "static/media/instagram.jpeg": "/react-web-portal/static/media/instagram.7688900b8f757f9439e5.jpeg",
+    "static/media/home.png": "/react-web-portal/static/media/home.76a65e6eab6dc5be1c5a.png",
+    "static/media/nyt.jpeg": "/react-web-portal/static/media/nyt.67ff57a28d11da0ead85.jpeg",
+    "static/media/clouds.png": "/react-web-portal/static/media/clouds.5794444f609dda1d90af.png",
+    "static/media/plus.png": "/react-web-portal/static/media/plus.32232e08da24eeb9329b.png",
+    "static/media/gmail.jpeg": "/react-web-portal/static/media/gmail.34ebfd4e7b951c66c93d.jpeg",
+    "static/media/podcast.png": "/react-web-portal/static/media/podcast.8960e21d01f546814aa6.png",
+    "static/media/check-mark.png": "/react-web-portal/static/media/check-mark.d2ee8e15f374c10ebecd.png",
+    "static/media/facebook.png": "/react-web-portal/static/media/facebook.44063dc9f638ce6a1e12.png",
+    "index.html": "/react-web-portal/index.html",
+    "main.44e821f0.css.map": "/react-web-portal/static/css/main.44e821f0.css.map",
+    "main.ab5dff30.js.map": "/react-web-portal/static/js/main.ab5dff30.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44e821f0.css",
+    "static/js/main.ab5dff30.js"
+  ]
+}
