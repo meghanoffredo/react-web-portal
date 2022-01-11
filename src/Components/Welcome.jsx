@@ -59,7 +59,7 @@ function Welcome(props) {
                 type="submit"
                 className="submit">
               <Link 
-                to="/Home" 
+                to="/react-web-portal/home" 
                 className="submitText">
                 Submit
               </Link>

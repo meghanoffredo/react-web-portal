@@ -10,8 +10,8 @@ export default class App extends React.Component {
         return (
             <Router>
                 <Routes>
-                    <Route path="/" element={<Welcome />} />
-                    <Route path="/Home" element={<Home />} />
+                    <Route path="/react-web-portal" element={<Welcome />} />
+                    <Route path="/react-web-portal/home/" element={<Home />} />
                 </Routes>
             </Router> 
         );
