@@ -32,11 +32,11 @@ export default class Home extends React.Component {
             <div 
                 className="home-container">
                 <Link 
-                    to="/" 
+                    to="/react-web-portal/" 
                     className="return-home">
                     <img
                         src={home}
-                        alt="Return to Home Page" />
+                        alt="Return to Welcome Page" />
                 </Link>
                 <h1 
                     className="homeHeader">
